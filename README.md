@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SubhamPro11/leetcode-vault/tree/master/0035-search-insert-position) |
 | [0948-sort-an-array](https://github.com/SubhamPro11/leetcode-vault/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/SubhamPro11/leetcode-vault/tree/master/0948-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SubhamPro11/leetcode-vault/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
