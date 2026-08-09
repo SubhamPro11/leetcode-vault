@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SubhamPro11/leetcode-vault/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SubhamPro11/leetcode-vault/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SubhamPro11/leetcode-vault/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/SubhamPro11/leetcode-vault/tree/master/0088-merge-sorted-array) |
 | [0792-binary-search](https://github.com/SubhamPro11/leetcode-vault/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/SubhamPro11/leetcode-vault/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
@@ -16,6 +17,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SubhamPro11/leetcode-vault/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/SubhamPro11/leetcode-vault/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SubhamPro11/leetcode-vault/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SubhamPro11/leetcode-vault/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
